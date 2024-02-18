@@ -1,7 +1,6 @@
 // fixed point iteration method
 #include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
 float f(float x) {
   float z;
   z = x * x * x + x * x - 1;

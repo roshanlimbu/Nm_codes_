@@ -1,6 +1,5 @@
 #include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
 float f(float x) {
   float z;
   z = x * x + 2 * x - 2;

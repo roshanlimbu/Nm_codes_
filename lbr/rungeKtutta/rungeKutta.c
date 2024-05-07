@@ -1,6 +1,4 @@
-#include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
 float f(float x, float y) { return (2 * x + y); }
 int main() {
   float x, y, x0, y0, h, xp, m1, m2, m3, m4;
